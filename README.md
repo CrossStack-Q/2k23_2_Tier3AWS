@@ -7,3 +7,9 @@ Tier 3 is popular multi-tier architecture .
 - Data Tier
 
 
+
+## VPC
+## Subnet
+## Internet Gateeway
+## Route Table
+## NAT Gateway
